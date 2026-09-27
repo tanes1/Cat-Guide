@@ -1,5 +1,3 @@
-// โหลด menu1.js
-
 // โหลด menu.html
 fetch("menu.html")
     .then(res => res.text())
